@@ -1,0 +1,12 @@
+D:\共有\VS2008Projects\DBInfo\DBInfo\bin\Debug\DBInfo.exe.config
+D:\共有\VS2008Projects\DBInfo\DBInfo\bin\Debug\DBInfo.exe
+D:\共有\VS2008Projects\DBInfo\DBInfo\bin\Debug\DBInfo.pdb
+D:\共有\VS2008Projects\DBInfo\DBInfo\bin\Debug\DBInfo.xml
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.Form1.resources
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.Resources.resources
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.vbproj.GenerateResource.Cache
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.exe
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.xml
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.pdb
+D:\共有\VS2008Projects\DBInfo\DBInfo\obj\Debug\DBInfo.LoginForm1.resources
